@@ -8,7 +8,7 @@
     "informacion_extra": "Solo tiene devolución por calidad",
     "link_catalogo": "https://issuu.com/somosbelcorp/docs/esika.colombia.c07.2025?mode=embed",
     "portada": "/img/portadas/Esika.webp",
-    "img_catalogo": "https://github.com/Rafiky724/Datos_anjusa/blob/main/img_catalogo/Esika.png?raw=true",
+    "img_catalogo": "https://raw.githubusercontent.com/Rafiky724/Datos_anjusa/refs/heads/main/img_catalogo/Esika.png",
     "sub_catalogos": [
       {
         "id_subCatalogo": 1,
