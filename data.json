@@ -8,16 +8,16 @@
     "informacion_extra": "Solo tiene devolución por calidad",
     "link_catalogo": "https://issuu.com/somosbelcorp/docs/esika.colombia.c07.2025?mode=embed",
     "portada": "/img/portadas/Esika.webp",
-    "img_catalogo": "/img/img_catalogo/Esika.png",
+    "img_catalogo": "https://github.com/Rafiky724/Datos_anjusa/blob/main/img_catalogo/Esika.png?raw=true",
     "sub_catalogos": [
       {
         "id_subCatalogo": 1,
-        "img_catalogo": "/img/img_catalogo/Cyzone.png",
+        "img_catalogo": "https://github.com/Rafiky724/Datos_anjusa/blob/main/img_catalogo/Cyzone.png?raw=true",
         "link_catalogo": "https://issuu.com/somosbelcorp/docs/cyzone.colombia.c07.2025?mode=embed"
       },
       {
         "id_subCatalogo": 2,
-        "img_catalogo": "/img/img_catalogo/L'Bel.png",
+        "img_catalogo": "https://github.com/Rafiky724/Datos_anjusa/blob/main/img_catalogo/L'Bel.png?raw=true",
         "link_catalogo": "https://issuu.com/somosbelcorp/docs/lbel.colombia.c07.2025?mode=embed"
       }
     ]
