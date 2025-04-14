@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "nombre": "Esika",
+    "campaña": 5,
+    "cierre": "Se va: 24 de marzo",
+    "llegada": "Llega: 30-31 de marzo",
+    "informacion_extra": "Solo tiene devolución por calidad",
+    "link_catalogo": "https://issuu.com/somosbelcorp/docs/esika.colombia.c07.2025?mode=embed",
+    "portada": "/img/portadas/Esika.webp",
+    "img_catalogo": "/img/img_catalogo/Esika.png",
+    "sub_catalogos": [
+      {
+        "id_subCatalogo": 1,
+        "img_catalogo": "/img/img_catalogo/Cyzone.png",
+        "link_catalogo": "https://issuu.com/somosbelcorp/docs/cyzone.colombia.c07.2025?mode=embed"
+      },
+      {
+        "id_subCatalogo": 2,
+        "img_catalogo": "/img/img_catalogo/L'Bel.png",
+        "link_catalogo": "https://issuu.com/somosbelcorp/docs/lbel.colombia.c07.2025?mode=embed"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Avon",
+    "campaña": 5,
+    "cierre": "Se va todos los dias",
+    "llegada": "Llega: 3 a 5 dias habiles",
+    "informacion_extra": "Solo devolución por calidad",
+    "link_catalogo": "https://co.natura-avon.digital-catalogue.com/co/2025/06/revista/avon-ciclo-6/view/?page=1",
+    "portada": "/img/portadas/Avon.webp",
+    "img_catalogo": "/img/img_catalogo/Avon.png",
+    "sub_catalogos": [
+      {
+        "id_subCatalogo": 1,
+        "img_catalogo": "/img/img_catalogo/Avon_casa_estilo.png",
+        "link_catalogo": "https://co.natura-avon.digital-catalogue.com/co/2025/06/revista/casa-estilo-ciclo-6/view/?page=1"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Leonisa",
+    "campaña": 5,
+    "cierre": "Se va: 2 de abril",
+    "llegada": "Llega: 7-8 de abril",
+    "informacion_extra": "Entrega limite: 9 de abril",
+    "link_catalogo": "https://estrategias.negocioleonisa.com/catalogos/CO/2506",
+    "portada": "/img/portadas/Leonisa.webp",
+    "img_catalogo": "/img/img_catalogo/Leonisa.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Loguin",
+    "campaña": 5,
+    "cierre": "Se va: 8 de abril",
+    "llegada": "Llega: 12-13 de abril",
+    "informacion_extra": "Entrega limite: 16 de abril",
+    "link_catalogo": "https://catalogo.loguin.com.co/2025c06/c06ed02-2025/?page=1",
+    "portada": "/img/portadas/Loguin.webp",
+    "img_catalogo": "/img/img_catalogo/Loguin.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Yanbal",
+    "campaña": 3,
+    "cierre": "Se va todos los dias hasta el 28 de marzo",
+    "llegada": "Llega: 5 a 7 dias habiles",
+    "informacion_extra": "Solo devolución por calidad",
+    "link_catalogo": "https://catalogo.yanbal.com/catalogodigital/es/CO/2025/4/oficial",
+    "portada": "/img/portadas/Yanbal.webp",
+    "img_catalogo": "/img/img_catalogo/Yanbal.png"
+  },
+  {
+    "id": 6,
+    "nombre": "MP y Atypical",
+    "campaña": 6,
+    "cierre": "Se va: 4 de abril",
+    "llegada": "Llega: 10-11 de abril",
+    "informacion_extra": "Entrega limite: 16 de abril",
+    "link_catalogo": "https://catalogovirtual.marketingpersonal.com/2025-mp-aty/mpcampana7v22025/",
+    "portada": "/img/portadas/Mp.webp",
+    "img_catalogo": "/img/img_catalogo/Mp.png",
+    "sub_catalogos": [
+      {
+        "id_subCatalogo": 1,
+        "img_catalogo": "/img/img_catalogo/Mp_fi.png",
+        "link_catalogo": "https://catalogovirtual.marketingpersonal.com/formas-intimas/2025/c7v22025/"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Pacifika",
+    "campaña": 5,
+    "cierre": "Se va: 2 de abril",
+    "llegada": "Llega: 7-8 de abril",
+    "informacion_extra": "Entrega limite: 14 de abril",
+    "link_catalogo": "https://catalogo.pacifika-rh.com.co/2025c06/c06ed01-2025/?page=1",
+    "portada": "/img/portadas/Pacifika.webp",
+    "img_catalogo": "/img/img_catalogo/Pacifika.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Natura",
+    "campaña": 5,
+    "cierre": "Se va todos los dias",
+    "llegada": "Llega: 3 a 5 dias habiles",
+    "informacion_extra": "Solo devolución por calidad",
+    "link_catalogo": "https://co.natura.digital-catalogue.com/co/2025/06/revista/ciclo-6/view/index.html?page=1",
+    "portada": "/img/portadas/Natura.webp",
+    "img_catalogo": "/img/img_catalogo/Natura.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Novaventa",
+    "campaña": 5,
+    "cierre": "Se va: 20 de marzo",
+    "llegada": "Llega: 25-26 de marzo",
+    "informacion_extra": "Solo devolución por calidad",
+    "link_catalogo": "https://catalogo.novaventa.com/novaventa/2025/tradicional/c7/helados-y-carnicos-c7/?page=1",
+    "portada": "/img/portadas/Novaventa.webp",
+    "img_catalogo": "/img/img_catalogo/Novaventa.png",
+    "sub_catalogos": [
+      {
+        "id_subCatalogo": 1,
+        "img_catalogo": "/img/img_catalogo/Novaventa_prestigio.png",
+        "link_catalogo": "https://catalogo.novaventa.com/novaventa/2025/prestigio/c7/prestigio-c7/?page=1"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Carmel",
+    "campaña": 5,
+    "cierre": "Se va: 20 de marzo",
+    "llegada": "Llega: 25-26 de marzo",
+    "informacion_extra": "Entrega Límite: 30 marzo",
+    "link_catalogo": "https://catalogo.carmel.com.co/2025c07/c07ed02-2025/?page=1",
+    "portada": "/img/portadas/Carmel.webp",
+    "img_catalogo": "/img/img_catalogo/Carmel.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Dupree",
+    "campaña": 6,
+    "cierre": "Se va: 3 de abril",
+    "llegada": "Llega: 9-10 de abril",
+    "informacion_extra": "Entrega Límite: 11 abril",
+    "link_catalogo": "https://catalogo.azzorti.com/dupree/azzorti/colombia/col202507nal/",
+    "portada": "/img/portadas/dupree.webp",
+    "img_catalogo": "/img/img_catalogo/Dupree.png",
+    "sub_catalogos": [
+      {
+        "id_subCatalogo": 1,
+        "img_catalogo": "/img/img_catalogo/Dupree_plus.png",
+        "link_catalogo": "https://catalogo.azzorti.com/dupree/azzorti/colombia/col202507plus/"
+      }
+    ]
+  }
+]
